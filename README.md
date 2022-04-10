@@ -22,7 +22,7 @@ Mediator、Flyweight、Composite、Command、Listener等設計模式來進行系
 [3] [Online-Shop-Front-Backend](https://github.com/bestvit999/Online-Shop-Front-Backend)
 ```
 - timestamp : 2018/09/21
-- abstract : 利用php賺錢簡易的線上商城，並利用SQL建立後端資料庫維護user之購物紀錄。
+- abstract : 利用php撰寫簡易的線上商城，並利用SQL建立後端資料庫維護user之購物紀錄。
 ```
 
 [4] [IndependentStudy-ShortCut](https://github.com/bestvit999/IndependentStudy-ShortCut)
