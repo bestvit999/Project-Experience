@@ -1,3 +1,26 @@
+# Thesis
+```
+一個有效的全域及區域搜尋經驗為基礎的最佳化器用於神經網路訓練
+- timestamp : 2021/08
+- abstract : 結合了超啟發演算法與梯度為基礎之最佳化器的搜尋特性，使最佳化器能以全域與區域的搜尋經驗作為 參考，以更具前瞻性的角度來計算出下一個欲更新的方向。
+```
+
+
+# Conference
+
+[1] An Effective Optimizer based on Global and Local Searched Experiences for Short-term Electricity Consumption Forecasting
+```
+- timestamp : 2020/12/15
+- abstract : 該項目為研討會論文。利用深度神經網路來預測下一個時間點的電力消耗，
+本篇paper中提出一個稱作GLAdam的混合式最佳化器來提供更有效的搜尋策略，以取得更好的預測結果。
+```
+
+[2] ACM ICEA, “An Effective Multi-Swarm Algorithm for Optimizing Hyperparameters of DNN”, Korea, 2020
+```
+- timestamp : 2020/12/15
+- abstract : 本研究提出一個多群體的粒子群體最佳化演算法(MSPSO)，透過將粒子切分成不同群體以提供搜尋時的 多樣性，並利用重組機制在不同群體之間共享資訊，用以搜尋最佳之神經網路超參數設定。
+```
+
 # Project-Experience
 
 [1] [SurvivalWristband](https://github.com/bestvit999/SurvivalWristband)
@@ -64,14 +87,7 @@ Mediator、Flyweight、Composite、Command、Listener等設計模式來進行系
 - abstract : 利用c++撰寫各式群體智慧為基礎之超啟發演算法來解決stochastic optimization problem，其中包含CS、ICS、PSO。
 ```
 
-[10] An Effective Optimizer based on Global and Local Searched Experiences for Short-term Electricity Consumption Forecasting
-```
-- timestamp : 2020/12/15
-- abstract : 該項目為研討會論文。利用深度神經網路來預測下一個時間點的電力消耗，
-本篇paper中提出一個稱作GLAdam的混合式最佳化器來提供更有效的搜尋策略，以取得更好的預測結果。
-```
-
-[11] [Optimizer-trajectory-visualization](https://github.com/bestvit999/Optimizer-trajectory-visualization)
+[10] [Optimizer-trajectory-visualization](https://github.com/bestvit999/Optimizer-trajectory-visualization)
 ```
 - timestamp : 2021/04/13
 - abstract : 將深度學習中的最佳化器進行搜尋特性之描繪，藉此更容易觀察不同最佳化器之間的差異。
